@@ -1,7 +1,6 @@
 <!--Start of Website Content-->
 <div class="index-header">
-    <h1>[EC]^2 GAL</h1>
-    <p>Lesson on User Interface (UI) and Java</p>
+    <h1>DNHS iGEM 2023</h1>
 </div>
 
 
